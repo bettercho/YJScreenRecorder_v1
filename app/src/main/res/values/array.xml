@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="audiosource_list">
+        <item>Mute</item>
+        <item>Mic</item>
+        <item>Mic/BGM</item>
+    </string-array>
+
+    <string-array name="videosource_list">
+        <item>Screen</item>
+        <item>Screen/Camera</item>
+    </string-array>
+
+
+</resources>
